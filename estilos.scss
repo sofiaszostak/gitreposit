@@ -15,4 +15,22 @@ body {
     body {
         background-color: turquoise;
     }
+} 
+
+
+.btn {
+    background-color: pink; 
+    color: purple;  
+    border: none ;
+    cursor: pointer; 
+     padding: 15px 32px; 
+     text-decoration: none; 
+     display: inline-block; 
+     margin: 4px 2px; 
+
+}  
+
+.btn:hover { 
+    background-color: purple;
+
 }
